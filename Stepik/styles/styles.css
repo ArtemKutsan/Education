@@ -1,0 +1,44 @@
+/* styles.css */
+
+h1, h2, h3, h4 {
+    color: #e5ce5c;
+    font-family: Cascadia Code Light;
+    font-style: italic;
+    text-indent: 20pt;
+    line-height: 1.0;
+}
+
+h5, h6 {
+    color: #e5ce5c;
+    font-family: Cascadia Code Light;
+    font-style: italic;
+    text-indent: 20pt;
+    line-height: 1.0;
+}
+
+p {
+    font-family: Cascadia Code Light;
+    text-indent: 20pt;
+    line-height: 1.25;
+}
+
+a, a:hover {
+    text-decoration: none;
+}
+
+ul, ol {
+    font-family: Cascadia Code Light;
+    line-height: 1.25;
+}
+
+div.cell {
+    margin: 0;
+    padding: 0;
+}
+
+.output {
+    max-width: 100%;
+    overflow: auto;
+    margin: 0;
+    padding: 0;
+}
