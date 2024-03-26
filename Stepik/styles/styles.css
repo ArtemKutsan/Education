@@ -1,23 +1,23 @@
 /* styles.css */
 
 h1, h2, h3, h4 {
-    color: #e5ce5c;
-    font-family: Cascadia Code Light;
+    color: #ffffff9a;
+    font-family: Cascadia Code PL SemiLight;
     font-style: italic;
     text-indent: 20pt;
     line-height: 1.0;
 }
 
 h5, h6 {
-    color: #e5ce5c;
-    font-family: Cascadia Code Light;
+    color: #757575;
+    font-family: Cascadia Code PL SemiLight;
     font-style: italic;
     text-indent: 20pt;
     line-height: 1.0;
 }
 
 p {
-    font-family: Cascadia Code Light;
+    font-family: Cascadia Code PL SemiLight;
     text-indent: 20pt;
     line-height: 1.25;
 }
@@ -27,7 +27,7 @@ a, a:hover {
 }
 
 ul, ol {
-    font-family: Cascadia Code Light;
+    font-family: Cascadia Code PL SemiLight;
     line-height: 1.25;
 }
 
